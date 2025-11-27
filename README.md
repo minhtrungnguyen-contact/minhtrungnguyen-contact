@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+
+### Kết nối với tôi:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mtunreal)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/minhtrungg.nguyen/)
+[![Locket](https://img.shields.io/badge/Locket-%23FFB600.svg?style=for-the-badge&logoColor=white)](https://locket.cam/tunbeoo06)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhtrung.avian@gmail.com)
+</div># minhtrung.nguyen
+
 
 <!--
 **minhtrungnguyen-contact/minhtrungnguyen-contact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
